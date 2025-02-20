@@ -1,4 +1,4 @@
-const panoramaImage = new PANOLENS.ImagePanorama("images/testRoomFix.jpg");
+const panoramaImage = new PANOLENS.ImagePanorama("images/myRoom3D.jpg");
 const imageContainer = document.querySelector(".image-container");
 
 const viewer = new PANOLENS.Viewer({
